@@ -1,0 +1,4 @@
+.env
+node_modules
+SLACK BOT.txt
+*.txt
